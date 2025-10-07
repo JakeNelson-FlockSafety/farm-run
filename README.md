@@ -21,11 +21,11 @@
 4. Run it in the Simulator (e.g., iPhone 15 Pro).
 
 **4. Run on Your iPhone**
-5. Connect your iPhone via USB (or Wi-Fi if enabled).
-6. In Xcode, select your iPhone as the run target.
-7. The first time, you’ll need to trust your developer certificate:
+1. Connect your iPhone via USB (or Wi-Fi if enabled).
+2. In Xcode, select your iPhone as the run target.
+3. The first time, you’ll need to trust your developer certificate:
     * On iPhone: Settings > General > VPN & Device Management > Developer App → Trust.
-8. Hit Run ▶ and see your app on your phone!
+4. Hit Run ▶ and see your app on your phone!
 
 
 **5. Technical details:**
